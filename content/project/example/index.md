@@ -1,7 +1,6 @@
 ---
 title: Exploration of the Underground Game
-summary: This is a multiplayer online escape game. In the game, players can play different roles and pick up various items to interact with other players. The first player to escape the dungeon wins.
-Mainly responsible for the technical framework of the game, UI interface writing, prop implementation, version control,
+summary: This is a multiplayer online escape game. In the game, players can play different roles and pick up various items to interact with other players. The first player to escape the dungeon wins. Mainly responsible for the technical framework of the game, UI interface writing, prop implementation, version control,
 etc
 tags:
 - Game
