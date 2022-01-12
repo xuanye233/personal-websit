@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Exploration of the Underground Game
+summary: This is a multiplayer online escape game. In the game, players can play different roles and pick up various items to interact with other players. The first player to escape the dungeon wins.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Game
+date: "2020-07-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/xuanye233/Computer-Game"
