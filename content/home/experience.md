@@ -32,11 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-      * Complete the virtual idol's lip animation. According to the phoneme input mapping to Blend Shape animation parameters,
-adjust the animation state machine. It offers about a 30% performance improvement over traditional bone animation and
-a 50% reduction in memory overhead.
-        * Complete the virtual idol chatbot. It includes UI control logic script, network request module, client animation and other
-module coding. This tool can be used for offline animation testing of virtual idols.
+      * Complete the virtual idol's lip animation. According to the phoneme input mapping to Blend Shape animation parameters, adjust the animation state machine. It offers about a 30% performance improvement over traditional bone animation and a 50% reduction in memory overhead.
+      
+      * Complete the virtual idol chatbot. It includes UI control logic script, network request module, client animation and other module coding. This tool can be used for offline animation testing of virtual idols.
         
   - title: Client Programmer Intern
 
@@ -48,16 +46,13 @@ module coding. This tool can be used for offline animation testing of virtual id
     description: |2-
         Responsibilities include:
 
-       * Programmed the combat parts of the game with C# and Lua, including scene loading, special effects, sound effects,
-logical calculation and other client-side methods; completed the transformation of the combat scene from 2D to 3D
-       * Complete client work such as sound management, joystick mobile characters, game packaging, UI prefab construction
-and logic code writing
-Participate in the development of DCC art tools and realize the automatic execution of some art works. For example,
-automatically generate Materials based on texture files, automatically generate .prefab files based on .fbx files, one-click
-preview of animation .fbx files, model replacement, and so on. This greatly improves the efficiency of art resource
-iteration
-     * Developed a daily report robot that can automatically crawl the daily report content every day, aggregate it into a cloud
-document, and share it in a group chat @ those colleagues who have not completed the daily report
+       * Programmed the combat parts of the game with C# and Lua, including scene loading, special effects, sound effects, logical calculation and other client-side methods; completed the transformation of the combat scene from 2D to 3D
+  
+       * Complete client work such as sound management, joystick mobile characters, game packaging, UI prefab construction and logic code writing
+
+       * Participate in the development of DCC art tools and realize the automatic execution of some art works. For example, automatically generate Materials based on texture files, automatically generate .prefab files based on .fbx files, one-click preview of animation .fbx files, model replacement, and so on. This greatly improves the efficiency of art resource iteration
+
+       * Developed a daily report robot that can automatically crawl the daily report content every day, aggregate it into a cloud document, and share it in a group chat @ those colleagues who have not completed the daily report
 
 design:
   columns: '2'
