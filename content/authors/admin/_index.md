@@ -14,7 +14,7 @@ organizations:
   url: https://www.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Games, Computer Graphics and Computer Animation.
 
 # Interests to show in About widget
 interests:
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zjuyixuanye@outlook.com'
+  link: 'mailto:zjuyixuanye@outlook.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -51,14 +51,14 @@ social:
   link: https://github.com/xuanye233/
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/yixuan-ye-b8901a208
+  link: https://linkedin.com/in/yixuan-ye-b8901a208
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zjuyixuanye@outlook.com"
@@ -67,6 +67,6 @@ email: "zjuyixuanye@outlook.com"
 highlight_name: true
 ---
 
-I am now a master's student at University of Southern California. I graduated from Zhejiang University with an undergraduate degree. I once had one-year internship experience in two departments of Bytedance. In addition, I also participated in the real-time reconstruction project of 3D human body in the STATE Key Laboratory of CAD&CG of Zhejiang University. I hope I can explore more fields of computer science and become an excellent software engineer!
+I am now a Master student at University of Southern California. I graduated from Zhejiang University with an undergraduate degree. I once had one-year internship experience in two departments of Bytedance. In addition, I also participated in the real-time reconstruction project of 3D human body in the STATE Key Laboratory of CAD&CG of Zhejiang University. I hope I can explore more fields of computer science and become an excellent software engineer!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
