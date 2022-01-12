@@ -1,12 +1,12 @@
 ---
-title: Exploration of the Underground Game1
-summary: This is a multiplayer online escape game. In the game, players can play different roles and pick up various items to interact with other players. The first player to escape the dungeon wins. Mainly responsible for the technical framework of the game, UI interface writing, prop implementation, version control, etc
+title: Image Retrieval Website Development
+summary: Utilized python and flask to develop a h5 website that supports SQL statement query, general semantic query, image query, registration and login, AliPay permission, image watermark, and movies recommendation, etc. Crawled data (name, poster and actor, etc.) of 250 movies from movie.douban.com, designed various image similarity algorithms to support image retrieval of movies
 tags:
-- Game
-date: "2020-07-30T00:00:00Z"
+- Demo
+date: "2020-011-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/xuanye233/Computer-Game/tree/master/result_video"
+external_link: "https://github.com/xuanye233/Image_retrieval_website/blob/master/sqlite-web-master/result.mp4"
 
 image:
   caption: Photo by rawpixel on Unsplash
