@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer Intern
+    company: Amazon
+    company_url: ''
+    company_logo: amazon
+    location: Sunnyvale, USA
+    date_start: '2022-05-23'
+    date_end: '2022-08-12'
+    description: |2-
+        Responsibilities include:
+        
+      * Complete the classification of copyrights, based on Naive Bayes Model. Accuracy is about 94%.
+      
+      * ntegrate the classification module into the Amazon License Compliance(ALC) website. Supports functions such as online model update, copyrights modification, and demonstration of machine learning credibility.
+
   - title: AI Programmer Intern
     company: ByteDance
     company_url: ''
