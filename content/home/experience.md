@@ -22,6 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: iOS Software Engineer
+    company: TikTok
+    company_url: ''
+    company_logo: tiktok
+    location: San Jose, USA
+    date_start: '2023-09-18'
+    date_end: 'now'
+    description: |2-
+        Responsibilities include:
+        
+      * Working as Tech owner and developer on "Flip Story" feature, which allow user to capture 2 photos in creation. User can hold button in consumption side to flip and show B side photo. Mainly using OpenCombine(MVVM) to finish camera capture logic, edit animation and all consumption interaction logic. This project increased story publish rate +3%, story interactions+1.8%. 
+      
+      * Working on "Story Thought" feature, which allow user to express feeling in a light mode. Mainly responsible for inbox skylight and profile UI display, data synchronization and story thought player. This project increased story publish rate +13.5%, story DM rate +4.7%.
+
+      * Mainly working on different types of interactive stickers for creation side and consumption side. Mainly using Swift & Objective - C. This project increased story publish rate +1.47%.
+
+      * Working on "Add comment to story" feature which allow user to fast repost a comment to a story video. This project increased story publish rate +3.59%.
+
+      * Working on "Story Album refactor" feature. Mainly using TTKC (internal package), basic album api and OpenCombine(MVVM) to build component based, reusable album.
+
   - title: Software Engineer Intern
     company: Amazon
     company_url: ''
